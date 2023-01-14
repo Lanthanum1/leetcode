@@ -1,1 +1,1 @@
-The function of this repo is saving my leetcode submission.
+The function of this repo is saving my leetcode submissions.
